@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronwey/flashcard-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronwey/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/aaronwey/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}

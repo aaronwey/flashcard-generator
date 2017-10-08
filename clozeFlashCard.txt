@@ -1,0 +1,2 @@
+{"cloze":"Blue","phrae":"is the color of that bird over there"}
+{"cloze":"oatmeal","phrae":"is what i did not have for breakfast"}
